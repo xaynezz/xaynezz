@@ -3,8 +3,8 @@
 I am currently learning more about web development and web3.
 
 <a href="https://github.com/xaynezz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xaynezz&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaynezz&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xaynezz&theme=cobalt&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaynezz&theme=cobalt&layout=compact" />
 </a>
 <!--
 **xaynezz/xaynezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
