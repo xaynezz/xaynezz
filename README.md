@@ -1,6 +1,6 @@
-### Hi I am Andrew, a Y2 NTU Computer Science student, and I have an interest in all things tech!
+# Hi I am Andrew, a Y2 NTU Computer Science student, and I have an interest in all things tech!
 
-# I am currently learning more about web development and web3.
+### I am currently learning more about web development and web3.
 
 
 <!--
