@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I am Andrew, a Y2 NTU Computer Science student, and I have an interest in all things tech!
+
+# I am currently learning more about web development and web3.
+
 
 <!--
 **xaynezz/xaynezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
