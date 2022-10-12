@@ -4,7 +4,6 @@ I am currently learning more about web development and web3.
 
 <a href="https://github.com/xaynezz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xaynezz&theme=react&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaynezz&theme=react&layout=compact" />
 </a>
 <!--
 **xaynezz/xaynezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
