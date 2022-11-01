@@ -1,7 +1,5 @@
 ### Hi I am Andrew, a Y2 NTU Computer Science student, and I have an interest in all things tech!
 
-I am currently learning more about web development and web3.
-
 <a href="https://github.com/xaynezz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xaynezz&theme=react&show_icons=true" />
 </a>
